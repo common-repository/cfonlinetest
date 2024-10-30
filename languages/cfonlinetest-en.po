@@ -1,0 +1,17 @@
+# CF Online Test Pot
+# Copyright 2021 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: CFOnlineTest\n"
+"Language: en\n"
+
+#: cfonlinetest.php:158
+#, fuzzy
+msgid "Online Tests"
+msgstr "Online Tests"
+
